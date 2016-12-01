@@ -20,7 +20,6 @@ home: true
 <div class="testimonialfull">
     <div class="testimonialfull-overlay">
         <div class="container testimonialfull-data text-center wow fadeInDown">
-            <h1><span>testimonials</span></h1>
             <div class="testimonialslider">
                 <div>
                     <div class="section-md">
