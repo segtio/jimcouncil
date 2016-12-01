@@ -74,7 +74,7 @@ input[type=email], input[type=text], input[type=password], select, textarea {
 	color: #333;
 }
 select {
-	background-image: url(/assets/img/select-arrow.png);
+	background-image: url(assets/img/select-arrow.png);
 	background-position: 98% center;
 	background-repeat: no-repeat;
 	outline: 0
@@ -312,7 +312,7 @@ h3 small {
 	background: #009cff
 }
 .sec-bg {
-	background: url(/assets/img/parallaxbg1.jpg) center center no-repeat fixed
+	background: url(assets/img/parallaxbg1.jpg) center center no-repeat fixed
 }
 .section-lg, .section-md, .section-sm, .section-xs {
 	margin: 0 auto
@@ -569,7 +569,7 @@ textarea {
 	-webkit-transition: background .2s 0s, visibility 0 .2s;
 	-moz-transition: background .2s 0s, visibility 0 .2s;
 	transition: background .2s 0s, visibility 0 .2s;
-	background: url(/assets/img/social-style-1.png) no-repeat
+	background: url(assets/img/social-style-1.png) no-repeat
 }
 .header_style_2 .res-bar, .header_style_3 .res-bar, .header_style_4 .res-bar {
 	margin-top: 0
@@ -764,7 +764,7 @@ textarea {
 	-webkit-transition: background .2s 0s, visibility 0 .2s;
 	-moz-transition: background .2s 0s, visibility 0 .2s;
 	transition: background .2s 0s, visibility 0 .2s;
-	background: url(/assets/img/icn-social.png) no-repeat
+	background: url(assets/img/icn-social.png) no-repeat
 }
 .header_dark_2 .res-bar, .header_dark_3 .res-bar, .header_dark_4 .res-bar {
 	margin-top: 0
@@ -937,7 +937,7 @@ textarea {
 	height: 100%
 }
 #parallax-2, #parallax-3 {
-	background: url(/assets/img/parallaxbg1.jpg) 50% 0 no-repeat
+	background: url(assets/img/parallaxbg1.jpg) 50% 0 no-repeat
 }
 .parallax-overlay-blue p {
 	color: #fff
@@ -985,7 +985,7 @@ textarea {
 	width: 100%;
 	height: 200px;
 	margin-top: 380px;
-	background: url(/assets/img/slider-bg-full.jpg) center bottom
+	background: url(assets/img/slider-bg-full.jpg) center bottom
 }
 .blogsec {
 	position: relative
@@ -1015,7 +1015,7 @@ textarea {
 }
 .testimonialfull {
 	width: 100%;
-	background: url(/assets/img/testimonialbg.jpg) top center no-repeat fixed;
+	background: url(assets/img/testimonialbg.jpg) top center no-repeat fixed;
 }
 .testimonialfull p {
 	color: #fff
@@ -1128,7 +1128,7 @@ textarea {
 	transition: all 0.2s ease;
 	-ms-transition: all 0.2s ease;
 	-o-transition: all 0.2s ease;
-	background: url(/assets/img/icn-social-light.png) no-repeat 0px 0px;
+	background: url(assets/img/icn-social-light.png) no-repeat 0px 0px;
 }
 /*.icn-social a:hover {
 	opacity:1;
@@ -1195,7 +1195,7 @@ textarea {
 	outline: 0;
 }
 .innerpagetitle {
-	background: url(/assets/img/slider-bg-full.jpg) center bottom;
+	background: url(assets/img/slider-bg-full.jpg) center bottom;
 	padding: 60px 0 20px
 }
 .progressbar, .progressbar-2 .progressbar {
@@ -1345,7 +1345,7 @@ textarea {
 	overflow: hidden
 }
 .parallaxfix {
-	background: url(/assets/img/parallaxbg1.jpg) center center no-repeat fixed;
+	background: url(assets/img/parallaxbg1.jpg) center center no-repeat fixed;
 	background-size: cover;
 	color: #fff;
 	margin-top: 70px
@@ -1379,7 +1379,7 @@ textarea {
 	margin: 22px 0 0 10px
 }
 .error404 {
-	background: url(/assets/img/404.jpg) center center no-repeat fixed
+	background: url(assets/img/404.jpg) center center no-repeat fixed
 }
 .errorpage {
 	padding: 150px 0
@@ -1391,7 +1391,7 @@ textarea {
 	line-height: 200px
 }
 .error500 {
-	background: url(/assets/img/500.jpg) center center no-repeat fixed
+	background: url(assets/img/500.jpg) center center no-repeat fixed
 }
 .search-blog input[type=text] {
 	width: 83%;
@@ -1517,7 +1517,7 @@ textarea {
 }
 .blogfull {
 	width: 100%;
-	background: url(/assets/img/gray-pixel.png) top center repeat-y;
+	background: url(assets/img/gray-pixel.png) top center repeat-y;
 	padding: 20px
 }
 .monthtitle {
@@ -1634,7 +1634,7 @@ textarea {
 	margin-top: 70px
 }
 .breadcrumb-1 {
-	background: url(/assets/img/slider-bg-full.jpg) center bottom
+	background: url(assets/img/slider-bg-full.jpg) center bottom
 }
 .breadcrumb-1-link, .breadcrumb-1-link a {
 	color: #caecff
@@ -1689,7 +1689,7 @@ textarea {
 	text-decoration: none
 }
 .breadcrumb-4 {
-	background: url(/assets/img/slider-bg-full.jpg) center bottom
+	background: url(assets/img/slider-bg-full.jpg) center bottom
 }
 .breadcrumb-4-link {
 	float: right;
@@ -1765,7 +1765,7 @@ textarea {
 	text-decoration: none
 }
 .breadcrumb-7 {
-	background: url(/assets/img/slider-bg-full.jpg) center bottom
+	background: url(assets/img/slider-bg-full.jpg) center bottom
 }
 .breadcrumb-7-link, .breadcrumb-7-link a {
 	color: #caecff
@@ -1912,7 +1912,7 @@ textarea {
 }
 .clientbgfull {
 	width: 100%;
-	background: url(/assets/img/clientbg.jpg) top center no-repeat fixed;
+	background: url(assets/img/clientbg.jpg) top center no-repeat fixed;
 	height: 500px;
 }
 .clientoverlay{
@@ -1955,7 +1955,7 @@ textarea {
 }
 .cta-full {
 	padding: 40px;
-	background: url(/assets/img/slider-bg-full.jpg) center center no-repeat
+	background: url(assets/img/slider-bg-full.jpg) center center no-repeat
 }
 .cta-full h4 {
 	font-size: 30px
@@ -2086,22 +2086,22 @@ textarea {
 	margin-left: 30px
 }
 .team-facebook {
-	background: url(/assets/img/team-social.png) no-repeat
+	background: url(assets/img/team-social.png) no-repeat
 }
 .team-facebook:hover {
-	background: url(/assets/img/team-social.png) 0 -30px no-repeat
+	background: url(assets/img/team-social.png) 0 -30px no-repeat
 }
 .team-twitter {
-	background: url(/assets/img/team-social.png) -30px 0 no-repeat
+	background: url(assets/img/team-social.png) -30px 0 no-repeat
 }
 .team-twitter:hover {
-	background: url(/assets/img/team-social.png) -30px -30px no-repeat
+	background: url(assets/img/team-social.png) -30px -30px no-repeat
 }
 .team-gplus {
-	background: url(/assets/img/team-social.png) -60px 0 no-repeat
+	background: url(assets/img/team-social.png) -60px 0 no-repeat
 }
 .team-gplus:hover {
-	background: url(/assets/img/team-social.png) -60px -30px no-repeat
+	background: url(assets/img/team-social.png) -60px -30px no-repeat
 }
 .testimonials-1 {
 	padding: 20px 0;
@@ -2473,28 +2473,28 @@ textarea {
 	transition: background .2s 0s, visibility 0 .2s
 }
 .facebook {
-	background: url(/assets/img/icn-social-light.png) no-repeat
+	background: url(assets/img/icn-social-light.png) no-repeat
 }
 .facebook:hover {
-	background: url(/assets/img/icn-social-light.png) 0 -30px no-repeat
+	background: url(assets/img/icn-social-light.png) 0 -30px no-repeat
 }
 .twitter {
-	background: url(/assets/img/icn-social-light.png) -30px 0 no-repeat
+	background: url(assets/img/icn-social-light.png) -30px 0 no-repeat
 }
 .twitter:hover {
-	background: url(/assets/img/icn-social-light.png) -30px -30px no-repeat
+	background: url(assets/img/icn-social-light.png) -30px -30px no-repeat
 }
 .gplus {
-	background: url(/assets/img/icn-social-light.png) -60px 0 no-repeat
+	background: url(assets/img/icn-social-light.png) -60px 0 no-repeat
 }
 .gplus:hover {
-	background: url(/assets/img/icn-social-light.png) -60px -30px no-repeat
+	background: url(assets/img/icn-social-light.png) -60px -30px no-repeat
 }
 .youtube {
-	background: url(/assets/img/icn-social-light.png) -90px 0 no-repeat
+	background: url(assets/img/icn-social-light.png) -90px 0 no-repeat
 }
 .youtube:hover {
-	background: url(/assets/img/icn-social-light.png) -90px -30px no-repeat
+	background: url(assets/img/icn-social-light.png) -90px -30px no-repeat
 }
 .fixslider {
 	margin: 40px 0 100px
@@ -2523,12 +2523,12 @@ textarea {
 	height: 9px
 }
 .testimonialbg:before {
-	background: url(/assets/img/testimonials-arrow-icn.png) no-repeat;
+	background: url(assets/img/testimonials-arrow-icn.png) no-repeat;
 	width: 21px;
 	bottom: 76px
 }
 .testimonialbg p:after {
-	background: url(/assets/img/quote-icn.png) no-repeat;
+	background: url(assets/img/quote-icn.png) no-repeat;
 	width: 14px;
 	left: -23px;
 	top: 7px
@@ -2587,7 +2587,7 @@ textarea {
 	width: 100%;
 	margin: 0;
 	padding: 50px 0;
-	background: url(/assets/img/slider-bg-full.jpg) top center
+	background: url(assets/img/slider-bg-full.jpg) top center
 }
 .actionhire h1 {
 	color: #fff;
@@ -2620,7 +2620,7 @@ textarea {
 }
 .portfoliotimeline {
 	width: 100%;
-	background: url(/assets/img/gray-pixel.png) top center repeat-y;
+	background: url(assets/img/gray-pixel.png) top center repeat-y;
 	text-align: center;
 	padding: 20px 0 10px;
 	margin-bottom: 60px
@@ -2851,7 +2851,7 @@ textarea {
 .blogbg-col-2 {
 	padding: 60px 0 50px;
 	width: 100%;
-	background: url(/assets/img/slider-bg-full.jpg) center top
+	background: url(assets/img/slider-bg-full.jpg) center top
 }
 .blogtitle {
 	margin: 120px 0 30px;
@@ -2902,7 +2902,7 @@ textarea {
 	-webkit-transition: background .2s 0s, visibility 0 .2s;
 	-moz-transition: background .2s 0s, visibility 0 .2s;
 	transition: background .2s 0s, visibility 0 .2s;
-	background: url(/assets/img/icn-social.png) no-repeat
+	background: url(assets/img/icn-social.png) no-repeat
 }
 .homepage-social-3 .facebook:hover {
 	background-position: 0 -30px
@@ -3809,7 +3809,7 @@ h1 {
 .blogbg {
 	height: 100%;
 	margin-top: 70px;
-	background: url(/assets/img/slider-bg-full.jpg);
+	background: url(assets/img/slider-bg-full.jpg);
 	padding-top: 50px
 }
 .blog2-img, .teamuser {
@@ -4062,7 +4062,7 @@ h1 {
 .blogbg {
 	height: 100%;
 	margin-top: 70px;
-	background: url(/assets/img/slider-bg-full.jpg);
+	background: url(assets/img/slider-bg-full.jpg);
 	padding-top: 50px
 }
 .blog2-img, .blog3-img, .blog4-img, .blog5-img, .team-img {
@@ -4170,7 +4170,7 @@ h1 {
 }
 .blogfull {
 	padding: 0;
-	background: url(/assets/img/gray-pixel.png) top left repeat-y
+	background: url(assets/img/gray-pixel.png) top left repeat-y
 }
 .monthtitle {
 	display: table;
@@ -4356,7 +4356,7 @@ h1 {
 }
 .blogfull {
 	padding: 0;
-	background: url(/assets/img/gray-pixel.png) top left repeat-y
+	background: url(assets/img/gray-pixel.png) top left repeat-y
 }
 .monthtitle {
 	display: table;

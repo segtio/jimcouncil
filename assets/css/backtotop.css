@@ -8,7 +8,7 @@
 	overflow: hidden;
 	text-indent: 100%;
 	white-space: nowrap;
-	background: url(/assets/img/backtotop.png) center center no-repeat rgba(0,156,255,1);
+	background: url(assets/img/backtotop.png) center center no-repeat rgba(0,156,255,1);
 	border: 1px solid #009cff;
 	visibility: hidden;
 	opacity: 0;

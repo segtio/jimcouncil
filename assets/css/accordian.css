@@ -28,14 +28,14 @@
 	height: auto
 }
 .acc-btn h1 {
-	background: url(/assets/img/icn-accordion-plus.jpg) 98.5% center no-repeat #F1F1F1;
+	background: url(assets/img/icn-accordion-plus.jpg) 98.5% center no-repeat #F1F1F1;
 	padding: 15px 35px 15px 25px;
 	line-height: 26px;
 	margin-bottom: 10px
 }
 .acc-btn .selected {
 	color: #009cff;
-	background: url(/assets/img/icn-accordion-minus.jpg) 98.5% center no-repeat #f1f1f1
+	background: url(assets/img/icn-accordion-minus.jpg) 98.5% center no-repeat #f1f1f1
 }
 
 /* accordian 2 */
@@ -58,7 +58,7 @@
 	padding: 10px 15px 30px 50px
 }
 .acc-btn2 h1 {
-	background: url(/assets/img/icn-accordion-plus.jpg) 0 top no-repeat #fff;
+	background: url(assets/img/icn-accordion-plus.jpg) 0 top no-repeat #fff;
 	padding: 0 15px 20px 50px;
 	line-height: 30px;
 	margin-bottom: 15px;
@@ -69,29 +69,29 @@
 }
 .acc-btn2 .selected {
 	color: #000;
-	background: url(/assets/img/icn-accordion-minus.jpg) 0 top no-repeat #fff
+	background: url(assets/img/icn-accordion-minus.jpg) 0 top no-repeat #fff
 }
 @media (max-width:768px) {
 .acc-btn h1 {
-	background: url(/assets/img/icn-accordion-plus.jpg) 98.5% center no-repeat #F1F1F1
+	background: url(assets/img/icn-accordion-plus.jpg) 98.5% center no-repeat #F1F1F1
 }
 .acc-btn .selected {
-	background: url(/assets/img/icn-accordion-minus.jpg) 98.5% center no-repeat #f1f1f1
+	background: url(assets/img/icn-accordion-minus.jpg) 98.5% center no-repeat #f1f1f1
 }
 }
 @media (min-width:600px) and (max-width:640px) {
 .acc-btn h1 {
-	background: url(/assets/img/icn-accordion-plus.jpg) 98% center no-repeat #F1F1F1
+	background: url(assets/img/icn-accordion-plus.jpg) 98% center no-repeat #F1F1F1
 }
 .acc-btn .selected {
-	background: url(/assets/img/icn-accordion-minus.jpg) 98% center no-repeat #f1f1f1
+	background: url(assets/img/icn-accordion-minus.jpg) 98% center no-repeat #f1f1f1
 }
 }
 @media (max-width:480px) {
 .acc-btn h1 {
-	background: url(/assets/img/icn-accordion-plus.jpg) 98% center no-repeat #F1F1F1
+	background: url(assets/img/icn-accordion-plus.jpg) 98% center no-repeat #F1F1F1
 }
 .acc-btn .selected {
-	background: url(/assets/img/icn-accordion-minus.jpg) 98% center no-repeat #f1f1f1
+	background: url(assets/img/icn-accordion-minus.jpg) 98% center no-repeat #f1f1f1
 }
 }

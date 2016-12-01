@@ -350,16 +350,16 @@ img.tp-slider-alternative-image {
 	z-index: 3
 }
 .tp-dottedoverlay.twoxtwo {
-	background: url(../assets/gridtile.html)
+	background: url(..assets/gridtile.html)
 }
 .tp-dottedoverlay.twoxtwowhite {
-	background: url(../assets/gridtile_white.html)
+	background: url(..assets/gridtile_white.html)
 }
 .tp-dottedoverlay.threexthree {
-	background: url(../assets/gridtile_3x3.html)
+	background: url(..assets/gridtile_3x3.html)
 }
 .tp-dottedoverlay.threexthreewhite {
-	background: url(../assets/gridtile_3x3_white.html)
+	background: url(..assets/gridtile_3x3_white.html)
 }
 .tp-shadowcover {
 	width: 100%;
@@ -791,10 +791,10 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF, endCo
 .caption.slidelink a div, .tp-caption.slidelink a div {
 	width: 3000px;
 	height: 1500px;
-	background: url(../assets/coloredbg.html)
+	background: url(..assets/coloredbg.html)
 }
 .tp-caption.slidelink a span {
-	background: url(../assets/coloredbg.html)
+	background: url(..assets/coloredbg.html)
 }
 .tp-shape {
 	width: 100%;
@@ -855,7 +855,7 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF, endCo
 	position: absolute
 }
 .tp-loader.spinner0 {
-	background: url(../assets/loader.html) center center no-repeat;
+	background: url(..assets/loader.html) center center no-repeat;
 	-webkit-box-shadow: 0 0 20px 0 rgba(0,0,0,.15);
 	-webkit-animation: tp-rotateplane 1.2s infinite ease-in-out;
 	animation: tp-rotateplane 1.2s infinite ease-in-out;
@@ -871,7 +871,7 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF, endCo
 	-webkit-border-radius: 3px
 }
 .tp-loader.spinner5 {
-	background: url(../assets/loader.html) 10px 10px no-repeat #fff;
+	background: url(..assets/loader.html) 10px 10px no-repeat #fff;
 	margin: -22px;
 	width: 44px;
 	height: 44px;
