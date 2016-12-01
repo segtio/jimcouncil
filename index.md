@@ -26,7 +26,7 @@ home: true
                     <div class="section-md">
                         <div class="avtarshape">
                             <div class="losange">
-                                <div class="los1"><img src="/assets/img/avatar.jpg" alt="La Direzione"/></div>
+                                <div class="los1"><img src="assets/img/avatar.jpg" alt="La Direzione"/></div>
                             </div>
                         </div>
                         <h4>Dott. DJIMADJA Boris</h4>
@@ -50,10 +50,10 @@ home: true
 <!--clientslider-->
 <div class="clientslidersection container wow fadeInDown">
     <div class="clientslider">
-        <div class="imgoverflow"><img src="/assets/img/slider/client-logo/int_cons_logo.png" alt="Client Logo"/></div>
-        <div class="imgoverflow"><img src="/assets/img/slider/client-logo/logo.png" alt="Client Logo"/></div>
-        <div class="imgoverflow"><img src="/assets/img/slider/client-logo/mana_logo.png" alt="Client Logo"/></div>
-        <div class="imgoverflow"><img src="/assets/img/slider/client-logo/recrut_logo.png" alt="Client Logo"/></div>
-        <div class="imgoverflow"><img src="/assets/img/slider/client-logo/studi_logo.png" alt="Client Logo"/></div>
+        <div class="imgoverflow"><img src="assets/img/slider/client-logo/int_cons_logo.png" alt="Client Logo"/></div>
+        <div class="imgoverflow"><img src="assets/img/slider/client-logo/logo.png" alt="Client Logo"/></div>
+        <div class="imgoverflow"><img src="assets/img/slider/client-logo/mana_logo.png" alt="Client Logo"/></div>
+        <div class="imgoverflow"><img src="assets/img/slider/client-logo/recrut_logo.png" alt="Client Logo"/></div>
+        <div class="imgoverflow"><img src="assets/img/slider/client-logo/studi_logo.png" alt="Client Logo"/></div>
     </div>
 </div>
