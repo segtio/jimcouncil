@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: Jim Council
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -27,8 +27,36 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
+js:
+ - /assets/js/jquery-1.11.2.js
+ - /assets/js/function.js
+ - /assets/js/bootstrap.js
+ - /assets/js/modernizr.js
+ - /assets/js/slick.js
+ - /assets/js/stickyheader.js
+ - /assets/js/mega-dropdown.js
+ - /assets/js/backtotop.js
+ - /assets/js/parallax.js
+ - /assets/js/animation.js
+ - /assets/js/counter.js
+ - /assets/js/number-counter.js
+ - /assets/js/accordian.js
+ - /assets/js/bootstrapValidator.js
+ - /assets/js/formValidation.js
+ - /assets/js/revoluation/jquery.themepunch.tools.min.js
+ - /assets/js/revoluation/jquery.themepunch.revolution.min.js
+ - /assets/js/revoluation/revolution.extension.layeranimation.min.js
+ - /assets/js/revoluation/revolution.extension.migration.min.js
+ - /assets/js/revoluation/revolution.extension.navigation.min.js
+ - /assets/js/revoluation/revolution.extension.parallax.min.js
+ - /assets/js/revoluation/revolution.extension.slideanims.min.js
+ - /assets/js/revoluation/revoluationfunction.js
+sass:
+    style: compressed
+    sass_dir: _sass
 gems:
   - jekyll-feed
+  - jekyll-coffeescript
 exclude:
   - Gemfile
   - Gemfile.lock
