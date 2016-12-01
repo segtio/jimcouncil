@@ -28,29 +28,29 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 js:
- - /assets/js/jquery-1.11.2.js
- - /assets/js/function.js
- - /assets/js/bootstrap.js
- - /assets/js/modernizr.js
- - /assets/js/slick.js
- - /assets/js/stickyheader.js
- - /assets/js/mega-dropdown.js
- - /assets/js/backtotop.js
- - /assets/js/parallax.js
- - /assets/js/animation.js
- - /assets/js/counter.js
- - /assets/js/number-counter.js
- - /assets/js/accordian.js
- - /assets/js/bootstrapValidator.js
- - /assets/js/formValidation.js
- - /assets/js/revoluation/jquery.themepunch.tools.min.js
- - /assets/js/revoluation/jquery.themepunch.revolution.min.js
- - /assets/js/revoluation/revolution.extension.layeranimation.min.js
- - /assets/js/revoluation/revolution.extension.migration.min.js
- - /assets/js/revoluation/revolution.extension.navigation.min.js
- - /assets/js/revoluation/revolution.extension.parallax.min.js
- - /assets/js/revoluation/revolution.extension.slideanims.min.js
- - /assets/js/revoluation/revoluationfunction.js
+ - assets/js/jquery-1.11.2.js
+ - assets/js/function.js
+ - assets/js/bootstrap.js
+ - assets/js/modernizr.js
+ - assets/js/slick.js
+ - assets/js/stickyheader.js
+ - assets/js/mega-dropdown.js
+ - assets/js/backtotop.js
+ - assets/js/parallax.js
+ - assets/js/animation.js
+ - assets/js/counter.js
+ - assets/js/number-counter.js
+ - assets/js/accordian.js
+ - assets/js/bootstrapValidator.js
+ - assets/js/formValidation.js
+ - assets/js/revoluation/jquery.themepunch.tools.min.js
+ - assets/js/revoluation/jquery.themepunch.revolution.min.js
+ - assets/js/revoluation/revolution.extension.layeranimation.min.js
+ - assets/js/revoluation/revolution.extension.migration.min.js
+ - assets/js/revoluation/revolution.extension.navigation.min.js
+ - assets/js/revoluation/revolution.extension.parallax.min.js
+ - assets/js/revoluation/revolution.extension.slideanims.min.js
+ - assets/js/revoluation/revoluationfunction.js
 sass:
     style: compressed
     sass_dir: _sass
